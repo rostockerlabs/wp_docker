@@ -16,7 +16,7 @@ A Wordpress site with Docker
 
 ## Bugs :bug:
 
-The project will upgrade continously. If there is a problem, please create a but report in the issues section.
+The project will upgrade continously. If there is a problem, please create a bug report in the issues section.
 
 ## Contact :content:
 
